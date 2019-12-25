@@ -1,4 +1,4 @@
 server:
-  port: 8765
+  port: 8108
 
-foo: foo version 8
+foo: foo version 108
